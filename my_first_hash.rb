@@ -1,11 +1,12 @@
-def my_hash{name =Ricky , age = 27}
+def my_hash{name = "Ricky", age = "27"}
   #my_hash= "Ricky", "27"
 
   
 end
 
 
-def shipping_manifest
+def shipping_manifest(the_mainfest)
+  the_mainfest = {
   
 
 end
