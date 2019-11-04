@@ -1,4 +1,4 @@
-def my_hash;name = "Ricky", age = "27" \n 
+def my_hash(name = "Ricky", age = "27") 
   #my_hash= "Ricky", "27"
 
   
@@ -9,6 +9,7 @@ def shipping_manifest(the_mainfest)
   the_mainfest = {"whale bone corsets" #=> 5
 "porcelain vases" #=> 2
 "oil paintings" #=> 3}
+shipping_manifest == the_mainfest
   
 
 end
