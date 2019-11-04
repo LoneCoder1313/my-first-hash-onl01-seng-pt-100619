@@ -1,4 +1,4 @@
-def my_hash{name ="Ricky" age = "27"}
+def my_hash{name ="Ricky", age = "27"}
   #my_hash= "Ricky", "27"
 
   
